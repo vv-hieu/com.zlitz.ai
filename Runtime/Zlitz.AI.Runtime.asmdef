@@ -1,0 +1,16 @@
+{
+    "name": "Zlitz.AI.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d68051bf7afa63b44b1319f05b7883b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,12 @@
+{
+	"name": "com.zlitz.ai",
+	"displayName": "Zlitz's AI",
+	"version": "1.0.0",
+	"unity": "2022.1",
+	"author": "Zlitz",
+	"description": "Zlitz's AI Package",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vv-hieu/com.zlitz.ai.git"
+	}
+}
